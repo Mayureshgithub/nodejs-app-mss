@@ -22,7 +22,7 @@
     "node": "v10.6.0"
   },
   "repository": {
-    "type": "git",
+    "type": "nexus",
     "url": "http://54.226.196.250:8081/repository/npm-repo/"
   },
   "keywords": [
